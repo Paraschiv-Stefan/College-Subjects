@@ -1,0 +1,12 @@
+[submodule "Microcontrollers"]
+	path = Microcontrollers
+	url = https://github.com/Paraschiv-Stefan/Microcontrollers.git
+[submodule "Applied-Informatics"]
+	path = Applied-Informatics
+	url = https://github.com/Paraschiv-Stefan/Applied-Informatics.git
+[submodule "Object-Oriented-Programming"]
+	path = Object-Oriented-Programming
+	url = https://github.com/Paraschiv-Stefan/Object-Oriented-Programming.git
+[submodule "Information-Theory"]
+	path = Information-Theory
+	url = https://github.com/Paraschiv-Stefan/Information-Theory.git
